@@ -1,7 +1,7 @@
 # Chunjie Pan
 # Coop or other experience and responsibilities
 * University of Cincinnati, Ohio, Research Assistant Jan 2019 – April 2019
-  *Developed the Simulation of Connected Vehicle Applications
+  * Developed the Simulation of Connected Vehicle Applications
 • Designed road network module in Vissim software.
 • Created Connect and Autonomous Vehicle behavior and developed the simulation manager module in C++ and C# respectively
 Institute of Automation, Chinese Academy of Sciences, Embedded Software Development Inter
